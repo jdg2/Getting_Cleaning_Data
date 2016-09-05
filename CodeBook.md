@@ -2,8 +2,8 @@
 this document summarizes the fields in the text file tidy_table.txt
 
 ## Identity Variables
-*SubjectId - The ID assigned to the subject being tested
-*ActivityId - The activity that was being performed when the measurement was taken
+* SubjectId - The ID assigned to the subject being tested
+* ActivityId - The activity that was being performed when the measurement was taken
               (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
 ## Measures
@@ -84,6 +84,6 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
-...
-- Features are normalized and bounded within [-1,1]."
--  Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+Features are normalized and bounded within [-1,1]."
+
+- Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
